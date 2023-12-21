@@ -11,7 +11,7 @@
 
 }
 
-/* .header {
+.header {
     background-color: #ebebe1;
     color: rgb(252, 249, 249);
     /* display:flex; */
@@ -20,7 +20,7 @@
     background-size: cover;
     position: static;
 
-} */
+}
 
 .focused {
     color: black;
